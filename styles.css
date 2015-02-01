@@ -1,2 +1,9 @@
 body { background: tan; font-family: "helvetica"; } 
-h1{ text-align:center; font-weight:bold; font-style:italic;)
+h1{ text-align:center; font-weight:bold; font-style:italic;}
+h2 {font-size: 3em; font-weight:heavy; color: #0000FF; line-height:10px; text-align: center;}
+h4 {width: 400px; padding: 5px; border:10px dashed;
+  padding:30px;
+  background: #ffc;}
+h5{width: 400px; padding: 5px; border:10px dashed;
+  padding:30px;
+  background: #ffc;}
