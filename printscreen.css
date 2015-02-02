@@ -1,7 +1,6 @@
 @media print {
-
-}
 body {color:black}
 img { display: none;
 }
 header {display:none;}
+}
