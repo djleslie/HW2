@@ -9,5 +9,10 @@ h5{width: 400px; padding: 5px; border:10px dashed;
   padding:30px;
   background: #ffc;}
 h6{font-size: 1em;text-align: center;}
- 
+section {
+  float: left;
+}
+aside {
+  float: right;
+}
  
