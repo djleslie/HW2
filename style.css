@@ -1,4 +1,2 @@
-body { background: tan; }
-@media print {
-   …
-}
+body { background: tan; color: #0000FF; text-align:left; text-align:justify; }
+header {text-align: center}
