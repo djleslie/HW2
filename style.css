@@ -1,2 +1,5 @@
-body { background: tan; color: #0000FF; text-align:left; text-align:justify; }
+body { background: tan; color: #0000FF; }
 header {text-align: center; border-style: dashed;}
+Article {margin:auto;
+  margin-left:auto;
+  padding:10px;}

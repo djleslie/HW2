@@ -1,4 +1,4 @@
-body { background: tan; font-family: "helvetica";width:800px;margin:0;padding:0; margin:auto;} 
+body { background-color: tan; font-family: "helvetica";width:800px;margin:0;padding:0; margin:auto;} 
 h1{ text-align:center; font-weight:bold; font-style:italic;}
 h2 {font-size: 3em;color: #0000FF; line-height:10px; text-align: center;}
 h3{font-size: 3em;text-align: center;}
@@ -15,4 +15,15 @@ section {
 aside {
   float: right;
 }
- 
+
+footer {
+  width:80%;
+  height:40px;
+  background-color:#000000 ;
+  color:white;
+  margin-right:auto;
+  margin-left:auto;
+  height:40px;
+  padding:10px;
+  text-align:center;
+}
